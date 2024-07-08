@@ -1,0 +1,19 @@
+1) change column names
+
+FAVC - frequent_consumption_of_high_caloric_food
+FCVC - frequency_of_consumption_of_vegetables
+NCP - number_of_main_meals
+CAEC - consumption_of_food_between_meals
+CH20 - consumption_of_water_daily
+CALC - consumption_of_alcohol
+SCC - calories_consumption_monitoring
+FAF -  physical_activity_frequency
+TUE - time_using_technology_devices
+MTRANS - transportation_used
+NObeyesdad - obesity_level
+
+2)Finding and removing duplicate values
+
+3) checking of any null or empty values(12,15)
+
+4)converting to csv
